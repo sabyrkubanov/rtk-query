@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Sabyr",
+      "gender": "men",
+      "id": 1
+    },
+    {
+      "name": "ascasc",
+      "gender": "men",
+      "id": 2
+    }
+  ]
+}

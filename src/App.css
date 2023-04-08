@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+
+}
+body {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: slateblue;
+    color: black;
+}
+.App {
+    width: 500px;
+    height: 300px!important;
+    border: 1px solid red;
+}
+.list-group {
+
+}
+.handleDelete {
+    margin-left: 100px   ;
+}
